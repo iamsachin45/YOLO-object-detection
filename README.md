@@ -7,7 +7,7 @@
 # YOLO-object-detection
 YOLO is a object detection algorithm. It can detect object faster.
 
-You can use aby GPU free enviroment like COLAB or Kaggle
+You can use any GPU free enviroment like COLAB or Kaggle
 
 Run this commend 
 ```
